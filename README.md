@@ -1,2 +1,1 @@
-# rsschool-cv
-CV-3
+https://lisavna.github.io/rsschool-cv/
